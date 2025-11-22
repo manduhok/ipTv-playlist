@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Duhok TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/Duhoktv.m3u8
-
 #EXTINF:-1, DuhokSport TV
-
 http://dream4ktv.net/play/live.php?mac=00:1A:79:34:65:29&stream=129834&extension=ts
+
